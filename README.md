@@ -1,6 +1,6 @@
 <h3>👋 Hey, I'm Jeff He </h3>
 <ul>
-  <li>Univeristy of Toronto Graduate - Aug 2024</li>
+  <li>Univeristy of Toronto Graduate</li>
   <li>Fullstack and Automation Developer</li>
   <li>UI/UX Design Hobbyist</li>
 </ul>
