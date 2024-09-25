@@ -24,7 +24,7 @@
 </p>
 <h3>👷 What I'm working on now</h3>
 <ul>
-  <li>Toronto record store scrapper</li>
+  <li>Toronto record store scraper</li>
   <li>Jeff He - The Chess Bot</li>
 </ul>
 <hr />
