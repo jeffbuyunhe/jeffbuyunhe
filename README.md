@@ -1,8 +1,8 @@
 <h3>👋 Hey, I'm Jeff He </h3>
 <ul>
   <li>Univeristy of Toronto Graduate</li>
-  <li>Fullstack and Automation Developer</li>
-  <li>UI/UX Design Hobbyist</li>
+  <li>B.S in Computer Science</li>
+  <li>Previous work terms with UofT and Rakuten Kobo</li>
 </ul>
 <hr />
 <h3>💻 My technologies</h3>
