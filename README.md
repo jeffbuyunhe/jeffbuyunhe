@@ -1,8 +1,8 @@
 <h3>👋 Hey, I'm Jeff He </h3>
 <ul>
-  <li>Univeristy of Toronto Graduate</li>
-  <li>B.S in Computer Science</li>
-  <li>Previous work terms with UofT and Rakuten Kobo</li>
+  <li>Incoming Software QA Analyst at Johnson Controls</li>
+  <li>B.S in Computer Science from UofT</li>
+  <li>Previous positions at UofT and Rakuten Kobo</li>
 </ul>
 <hr />
 <h3>💻 My technologies</h3>
