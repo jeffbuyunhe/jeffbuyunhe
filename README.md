@@ -1,6 +1,6 @@
 <h3>👋 Hey, I'm Jeff He </h3>
 <ul>
-  <li>Incoming Software QA Analyst at Johnson Controls</li>
+  <li>Software QA Analyst at Johnson Controls</li>
   <li>B.S in Computer Science from UofT</li>
   <li>Previous positions at UofT and Rakuten Kobo</li>
 </ul>
