@@ -26,7 +26,7 @@
 <h3>👷 What I'm working on now</h3>
 <ul>
   <li>Toronto record store scraper</li>
-  <li>Jeff He - The Chess Bot</li>
+  <li>Fitness section on personal website</li>
 </ul>
 <hr />
 <h3>📮 Connect with me</h3>
